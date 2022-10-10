@@ -5,7 +5,7 @@ local function initVTPTraits()
     local spearhunter = TraitFactory.addTrait("spearhunter", getText("UI_trait_spearhunter"), 6, getText("UI_trait_spearhunterdesc"), false, false);
     spearhunter:addXPBoost(Perks.Spear, 1);
     spearhunter:addXPBoost(Perks.Sneaking, 1);
-    local gunnut = TraitFactory.addTrait("gunnut", getText("UI_trait_gunnut"), 6, getText("UI_trait_gunspecialistdesc"), false, false);
+    local gunnut = TraitFactory.addTrait("gunnut", getText("UI_trait_gunnut"), 6, getText("UI_trait_gunnut"), false, false);
     gunnut:addXPBoost(Perks.Aiming, 1);
     gunnut:addXPBoost(Perks.Reloading, 1);
 end
