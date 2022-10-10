@@ -23,15 +23,23 @@ VTPSkills = {
     spearhunter = {
         name = "spearhunter",
         type = "trait",
-        visionBonus = 0.4,
+        visionBonus = 0.2,
         weatherEffect = 7,
         darknessEffect = 3,
         specialisations = {
             ["Animals"] = 5,
             ["JunkWeapons"] = 3,
-            ["Firewood"] = 3,
-            ["Stones"] = 3
-        }
-    }
+        },
+    },
+    gunnut = {
+        name = "gunnut",
+        type = "trait",
+        visionBonus = 0.2,
+        weatherEffect = 0,
+        darknessEffect = 3,
+        specialisations = {
+            ["Ammunition"] = 3,
+        },
+    },
 };
 table.insert(forageSkills, VTPSkills);
