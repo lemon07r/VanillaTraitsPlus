@@ -1,0 +1,6 @@
+UI_EN = {
+    UI_trait_newbie = "Newbie",
+    UI_trait_newbiedesc = "Small newbie handicap..<br>Get one free occupation/trait point.",
+    UI_trait_spearhunter = "Spear Hunter",
+    UI_trait_spearhunterdesc = "+1 Spear<br>+1 Fishing<br>+1 Sneaking",
+}
