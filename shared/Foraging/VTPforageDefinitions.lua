@@ -1,6 +1,4 @@
 require "forageDefinitions";
-
-VTPSkills = {
     -- Available foraging specialisations:
     -- ForestRarities
     -- Animals
@@ -20,6 +18,7 @@ VTPSkills = {
     -- Trash
     -- Insects
     -- FishBait
+VTPSkills = {
     spearhunter = {
         name = "spearhunter",
         type = "trait",
