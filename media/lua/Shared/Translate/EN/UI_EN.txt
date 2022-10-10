@@ -4,5 +4,5 @@ UI_EN = {
     UI_trait_spearhunter = "Spear Hunter",
     UI_trait_spearhunterdesc = "+1 Spear<br>+1 Sneaking",
     UI_trait_gunnut = "Gun Nut",
-    UI_trait_gunnut = "+1 Aiming<br>+1 Reloading",
+    UI_trait_gunnutdesc = "+1 Aiming<br>+1 Reloading",
 }
